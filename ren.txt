@@ -1,0 +1,11 @@
+class ren{
+public static void main(String[]args)
+{
+char ch1='a';
+char ch2='D';
+int value = ch1%ch2;
+System.oot.print(value);
+}
+}
+
+ 
